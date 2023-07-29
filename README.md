@@ -1,2 +1,2 @@
-# nxfairlywell.github.io
-The Creative Technology's website
+# Creative Technology
+The Creative Technology's frontend website
